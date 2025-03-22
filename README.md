@@ -1,4 +1,7 @@
-# Lista de Compras
+
+![Descricao da sua imagem](https://imgur.com/C8TfWXc.png)
+
+# Titulo do projeto
 
 Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
 
@@ -15,6 +18,10 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `HTML`: criação dos elementos da tela;
 - `CSS`: estilização da aplicação;
 - `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+
+## 📁 Acesso ao projeto
+
+Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 
